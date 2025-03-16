@@ -1,0 +1,29 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    
+}
+#main{
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+    grid-template-rows: auto;
+    height: 100vh;
+}
+.hidden{
+    display: none;
+}
+button{
+    padding: 1.5rem 1rem;
+    background-color: orange;
+
+    border-radius: 100px;
+}
+#sidebar{
+    background-color: red;
+}
+#content{
+    background-color: yellow;
+} */
+.hidden{
+    display: none;
+}
